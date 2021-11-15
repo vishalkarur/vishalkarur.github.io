@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning with Python and R programming language
 - 💞️ I’m looking to collaborate on Data Analytics and Data Science .
 - 📫 How to reach me ...vishalkarur12@gmail.com
+- LinkeIn - https://www.linkedin.com/in/vishalkarur/
 
 <!---
 vishalkarur/vishalkarur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
